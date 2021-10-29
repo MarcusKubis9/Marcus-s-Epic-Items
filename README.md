@@ -6,3 +6,4 @@
 -Made with BeePKG by Baguettery
 -Full of EPIC Items
 -People with early access: CardsAndGames_YT, Drgregs,
+-BeePKG link:https://koerismo.github.io/BeePKG-V2/
